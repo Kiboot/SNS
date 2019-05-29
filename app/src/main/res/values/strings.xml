@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">SNS</string>
+    <string name="app_name">Student Notifier System</string>
+    <string name="str_email">Student ID Number</string>
+    <string name="str_pass">Password</string>
+    <string name="qr_s1">Scan the Barcode that is generated for you. It is behind your ID Card Make sure to align it well.</string>
+
 </resources>
